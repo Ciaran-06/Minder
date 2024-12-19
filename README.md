@@ -1,4 +1,4 @@
-# ![Minder Logo](./src/assets/images/logo-circle.png) Minder
+# Minder
 
 Minder is a simple and elegant mood tracking app designed to help users log their emotions and track patterns over time. Built with React Native, Minder provides a seamless experience for iOS users, with future scalability in mind.
 
